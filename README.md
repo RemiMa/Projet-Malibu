@@ -19,3 +19,5 @@ Commit E
 Supression fonctionnalite 1 
 
 Commit F
+
+Continuité pour le master
