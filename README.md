@@ -1,9 +1,7 @@
 # Projet-Malibu
 Tp Git
 
-
-
-premier ajout sur le readme
+Suppression ajout 1
 
 Deuxieme ajout sur le readme
 
