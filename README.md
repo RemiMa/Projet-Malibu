@@ -5,13 +5,17 @@ Suppression ajout 1
 
 Deuxieme ajout sur le readme
 
+premier ajout sur le readme
+
+
+
+
+ression des fonctionnalites 2 et 3 
+
+Commit G 
 
 Commit E
 
-Fonctionnalite 1
-
-Fonctionnalite 2
-
-Fonctionnalite 3
+Supression fonctionnalite 1 
 
 Commit F
